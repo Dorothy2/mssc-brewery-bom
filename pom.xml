@@ -144,7 +144,7 @@
                                 </requireJavaVersion>
                                 <requireReleaseDeps>
                                     <onlyWhenRelease>true</onlyWhenRelease>
-                                    <message>Release builds must not have on snapshot dependencies</message>
+                                    <message>Release builds must not have snapshot dependencies</message>
                                 </requireReleaseDeps>
                             </rules>
                         </configuration>
