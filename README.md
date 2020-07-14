@@ -1,3 +1,3 @@
 # MSSC Brewery POM
 
-Source code in this repository is to support my online courses.
+This source code is part of the Udemy "Master Spring Boot Microservices With Spring Cloud and Docker" class I took in July, 2020.
